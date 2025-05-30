@@ -22,7 +22,6 @@ I'm a **Junior Data Analyst** based in **Mexico City** and open to **remote oppo
 <br>
 
 <p  align="center">
-
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
   </p>
   
