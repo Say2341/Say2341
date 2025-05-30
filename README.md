@@ -7,7 +7,7 @@ I'm a **Junior Data Analyst** based in **Mexico City** and open to **remote oppo
 
 - 📊 Analyze data to discover trends and solve business problems
 - 🧪 Apply analytical skills from science into data projects
-- ⚙️ Learning data engineering tools and workflows <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+- ⚙️ Learning data engineering tools and workflows <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 ## 🤝 Connect with me
 
