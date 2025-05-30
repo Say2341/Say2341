@@ -46,7 +46,7 @@ I'm a **Junior Data Analyst** based in **Mexico City** and open to **remote oppo
 <br>
 
 
-#### 📚 Libraries
+## 📚 Libraries
 
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
