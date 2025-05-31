@@ -13,7 +13,7 @@ I'm a **Junior Data Analyst** based in **Mexico City** and open to **remote oppo
 
 <p align="center">
 	<a href="mailto:anothersayuri2341@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/sayuri-chong-0773b65a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/sayuri-chong-canto-0773b65a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 💻 My Tech Stack
